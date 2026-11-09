@@ -17,7 +17,9 @@ TypeScript monorepo for the pi agent tooling. Packages live under `packages/`, a
 
 ## Guidelines
 
-The authoritative rules are in `AGENTS.md`. Read it before making changes. Do not duplicate them here.
+@AGENTS.md
+
+The rules in `AGENTS.md` are authoritative. Do not duplicate them here.
 
 ## Reference
 
